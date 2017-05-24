@@ -1,0 +1,13 @@
+Start time: 24.05.2017 13:37
+
+Examples labeled as 0 classified by model as 0: 10120 times
+Examples labeled as 1 classified by model as 0: 1160 times
+
+Warning: class 1 was never predicted by the model. This class was excluded from the average precision
+
+==========================Scores========================================
+ Accuracy:        0,8972
+ Precision:       0,8972
+ Recall:          0,5
+ F1 Score:        0,6421
+========================================================================
